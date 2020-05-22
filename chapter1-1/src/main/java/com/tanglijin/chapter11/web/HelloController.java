@@ -1,4 +1,4 @@
-package com.tanglijin.chapter11;
+package com.tanglijin.chapter11.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
